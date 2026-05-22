@@ -1,4 +1,5 @@
 # Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
+Modified by [wildfirebill](https://github.com/wildfirebill)
 
 [![](https://dcbadge.limes.pink/api/server/devops)](https://discord.gg/devops)
 
